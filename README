@@ -1,0 +1,4 @@
+Primero contato com node.js utilizando express.
+Feito um crud em uma simulação de api para finanças.
+Utilizando Sequilize como biblioteca para ORM e Querys.
+Integração com banco de dados PostgresSQL, utilizando de variaveis de ambiente.
